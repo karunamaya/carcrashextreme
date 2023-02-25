@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{2958b3ee-911d-4548-91f1-e71d0c4688cd}">
+		<property name="assetPath">
+			<value>CrashesSounds/WoodenBox02.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.4347619047619047</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1c3c594e-206b-4287-91d4-05c896db3559}</destination>
+		</relationship>
+	</object>
+</objects>

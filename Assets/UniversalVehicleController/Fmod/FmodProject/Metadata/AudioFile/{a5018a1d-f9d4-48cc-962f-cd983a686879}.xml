@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{a5018a1d-f9d4-48cc-962f-cd983a686879}">
+		<property name="assetPath">
+			<value>CrashesSounds/CupCrush.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.43375000000000002</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1c3c594e-206b-4287-91d4-05c896db3559}</destination>
+		</relationship>
+	</object>
+</objects>
