@@ -38379,7 +38379,7 @@ LODGroup:
     renderers:
     - renderer: {fileID: 5346615359799555659}
     - renderer: {fileID: 6411758433053188981}
-  - screenRelativeHeight: 0.037668347
+  - screenRelativeHeight: 0.032422926
     fadeTransitionWidth: 0
     renderers:
     - renderer: {fileID: 7176953907583256708}
@@ -43720,7 +43720,7 @@ Transform:
   - {fileID: 1019838958312212544}
   - {fileID: 229367841}
   m_Father: {fileID: 0}
-  m_RootOrder: 0
+  m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!54 &5313924211586451622
 Rigidbody:
