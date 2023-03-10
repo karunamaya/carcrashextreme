@@ -174,7 +174,7 @@ PrefabInstance:
     - target: {fileID: 2334202, guid: a4c18952442944083b1fddc06ba477c2, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: e83457f6d63fa46a0a16b8fe23f944cf, type: 2}
+      objectReference: {fileID: 2100000, guid: b8e1fb272baf54b0f928ece138939b5b, type: 2}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: a4c18952442944083b1fddc06ba477c2, type: 3}
@@ -6181,7 +6181,7 @@ PrefabInstance:
     - target: {fileID: 2334202, guid: a4c18952442944083b1fddc06ba477c2, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: e83457f6d63fa46a0a16b8fe23f944cf, type: 2}
+      objectReference: {fileID: 2100000, guid: b8e1fb272baf54b0f928ece138939b5b, type: 2}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: a4c18952442944083b1fddc06ba477c2, type: 3}
@@ -7704,7 +7704,7 @@ PrefabInstance:
     - target: {fileID: 2334202, guid: a4c18952442944083b1fddc06ba477c2, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: e83457f6d63fa46a0a16b8fe23f944cf, type: 2}
+      objectReference: {fileID: 2100000, guid: b8e1fb272baf54b0f928ece138939b5b, type: 2}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: a4c18952442944083b1fddc06ba477c2, type: 3}
@@ -8389,7 +8389,7 @@ PrefabInstance:
     - target: {fileID: 2334202, guid: a4c18952442944083b1fddc06ba477c2, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: e83457f6d63fa46a0a16b8fe23f944cf, type: 2}
+      objectReference: {fileID: 2100000, guid: b8e1fb272baf54b0f928ece138939b5b, type: 2}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: a4c18952442944083b1fddc06ba477c2, type: 3}
@@ -8908,6 +8908,20 @@ MonoBehaviour:
       Data3: 1524650642
       Data4: -31605423
     Path: event:/Music/mainmenu
+  <woodenBox>k__BackingField:
+    Guid:
+      Data1: 0
+      Data2: 0
+      Data3: 0
+      Data4: 0
+    Path: 
+  <brokenGlass>k__BackingField:
+    Guid:
+      Data1: 0
+      Data2: 0
+      Data3: 0
+      Data4: 0
+    Path: 
 --- !u!1001 &1710988242
 PrefabInstance:
   m_ObjectHideFlags: 0
