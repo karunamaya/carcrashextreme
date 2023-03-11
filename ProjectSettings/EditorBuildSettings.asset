@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/Scenes/TrackChooser.unity
     guid: ffa190ec7490ccd49910b8cf396584c6
   - enabled: 1
-    path: Assets/Scenes/level1.1.unity
+    path: Assets/Scenes/level1.unity
     guid: deb0439b15d90481a97eb0cac37772d4
   - enabled: 1
     path: Assets/Scenes/level2.unity
