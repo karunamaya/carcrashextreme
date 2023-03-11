@@ -447,6 +447,33 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 0
+--- !u!114 &-8714596335126477196
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/mainmenu
+  m_EditorClassIdentifier: 
+  Path: event:/Music/mainmenu
+  Guid:
+    Data1: -679823867
+    Data2: 1095765206
+    Data3: 1524650642
+    Data4: -31605423
+  Banks:
+  - {fileID: 7052557927455595849}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 106057
 --- !u!114 &-8713678252116028350
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -836,6 +863,33 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
+--- !u!114 &-8321493801044479432
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/CrashesSounds/VaseCrush
+  m_EditorClassIdentifier: 
+  Path: event:/CrashesSounds/VaseCrush
+  Guid:
+    Data1: -738423903
+    Data2: 1141718836
+    Data3: 472856246
+    Data4: -1346262123
+  Banks:
+  - {fileID: -6190092126856524381}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 734
 --- !u!114 &-8308642765124808809
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -863,6 +917,30 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 1028
+--- !u!114 &-8305732182116683878
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/GroundFriction/Time
+  m_EditorClassIdentifier: 
+  Name: Time
+  StudioPath: 
+  Min: 0
+  Max: 100
+  Default: 0
+  ID:
+    data1: 1635438702
+    data2: 3972428802
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
 --- !u!114 &-8257523910658268956
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1018,6 +1096,33 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 0
+--- !u!114 &-7987991408230885808
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Crashes/TreeCollision_Easy
+  m_EditorClassIdentifier: 
+  Path: event:/Crashes/TreeCollision_Easy
+  Guid:
+    Data1: 1494206604
+    Data2: 1317537008
+    Data3: -1120888132
+    Data4: -1456030015
+  Banks:
+  - {fileID: 5358900017183286825}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 455
 --- !u!114 &-7983106296015952505
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1111,6 +1216,33 @@ MonoBehaviour:
   lastModified: 637800202980000000
   FileSizes: []
   Exists: 1
+--- !u!114 &-7810877243008842499
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Pax217 - A.M
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Pax217 - A.M
+  Guid:
+    Data1: 1164344729
+    Data2: 1181818282
+    Data3: -1904586082
+    Data4: 1196787783
+  Banks:
+  - {fileID: 7052557927455595849}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 457247
 --- !u!114 &-7798313180365100194
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1328,6 +1460,30 @@ MonoBehaviour:
   - Name: 
     Value: 2148
   Exists: 1
+--- !u!114 &-7428139732726184092
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/MetalFriction/Time
+  m_EditorClassIdentifier: 
+  Name: Time
+  StudioPath: 
+  Min: 0
+  Max: 100
+  Default: 0
+  ID:
+    data1: 1635438702
+    data2: 3972428802
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
 --- !u!114 &-7414690244290602728
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1523,6 +1679,35 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 1028
+--- !u!114 &-7123062543267857556
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Wheels/WheelsAsphalt
+  m_EditorClassIdentifier: 
+  Path: event:/Wheels/WheelsAsphalt
+  Guid:
+    Data1: 1061743445
+    Data2: 1138492336
+    Data3: 845169598
+    Data4: 1333732588
+  Banks:
+  - {fileID: 5358900017183286825}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters:
+  - {fileID: -5712458260339406008}
+  - {fileID: -1462359839857682451}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
 --- !u!114 &-7112847190160617378
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1571,6 +1756,33 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
+--- !u!114 &-7108770688597139203
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/CrashesSounds/Fire
+  m_EditorClassIdentifier: 
+  Path: event:/CrashesSounds/Fire
+  Guid:
+    Data1: -651220366
+    Data2: 1151229206
+    Data3: -893871471
+    Data4: -1753036687
+  Banks:
+  - {fileID: -6190092126856524381}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 4738
 --- !u!114 &-7107218477127291343
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1624,6 +1836,33 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 0
+--- !u!114 &-7075516451745681299
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Crashes/TreeCollision_Strong
+  m_EditorClassIdentifier: 
+  Path: event:/Crashes/TreeCollision_Strong
+  Guid:
+    Data1: 1998871829
+    Data2: 1086661089
+    Data3: 682472365
+    Data4: -2126997719
+  Banks:
+  - {fileID: 5358900017183286825}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 999
 --- !u!114 &-7044059578569203472
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1984,6 +2223,35 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
+--- !u!114 &-6643604456129235196
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Crashes/MetalFriction
+  m_EditorClassIdentifier: 
+  Path: event:/Crashes/MetalFriction
+  Guid:
+    Data1: -450230801
+    Data2: 1212034320
+    Data3: 1163301042
+    Data4: -614068841
+  Banks:
+  - {fileID: 5358900017183286825}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters:
+  - {fileID: -898583342300950150}
+  - {fileID: -7428139732726184092}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
 --- !u!114 &-6617757970446249219
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2330,6 +2598,60 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
+--- !u!114 &-6243044935803771223
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Crashes/Glass_Shards_Medium
+  m_EditorClassIdentifier: 
+  Path: event:/Crashes/Glass_Shards_Medium
+  Guid:
+    Data1: -564385782
+    Data2: 1107968251
+    Data3: 1796317319
+    Data4: 1342037699
+  Banks:
+  - {fileID: 5358900017183286825}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1028
+--- !u!114 &-6241414474316310823
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/CrashesSounds/LaptopCrush
+  m_EditorClassIdentifier: 
+  Path: event:/CrashesSounds/LaptopCrush
+  Guid:
+    Data1: 890715794
+    Data2: 1174842116
+    Data3: -584123212
+    Data4: -661751464
+  Banks:
+  - {fileID: -6190092126856524381}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 600
 --- !u!114 &-6220817285988701684
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2380,6 +2702,24 @@ MonoBehaviour:
   Type: 0
   IsGlobal: 0
   Labels: []
+  Exists: 1
+--- !u!114 &-6190092126856524381
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/sound.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/UniversalVehicleController/Fmod/Desktop/sound.bank
+  Name: sound
+  StudioPath: bank:/sound
+  lastModified: 638137217839198855
+  FileSizes: []
   Exists: 1
 --- !u!114 &-6104203123493640658
 MonoBehaviour:
@@ -2441,6 +2781,33 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 0
+--- !u!114 &-6032316730668403702
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/CrashesSounds/BottleCrush
+  m_EditorClassIdentifier: 
+  Path: event:/CrashesSounds/BottleCrush
+  Guid:
+    Data1: -945658314
+    Data2: 1091835459
+    Data3: 392959877
+    Data4: 2140952506
+  Banks:
+  - {fileID: -6190092126856524381}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 667
 --- !u!114 &-5953991414986481850
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2461,6 +2828,30 @@ MonoBehaviour:
   ID:
     data1: 2696509246
     data2: 4246335921
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-5887729718023587638
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Motorbike_Engine_01/Boost
+  m_EditorClassIdentifier: 
+  Name: Boost
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1966800828
+    data2: 2658639853
   Type: 0
   IsGlobal: 0
   Labels: []
@@ -2582,6 +2973,84 @@ MonoBehaviour:
   lastModified: 638118288052552984
   FileSizes: []
   Exists: 1
+--- !u!114 &-5747637526301669103
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/CrashesSounds/glass sound
+  m_EditorClassIdentifier: 
+  Path: event:/CrashesSounds/glass sound
+  Guid:
+    Data1: -1920702744
+    Data2: 1234817386
+    Data3: -873016658
+    Data4: -1539161222
+  Banks:
+  - {fileID: -6190092126856524381}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1854
+--- !u!114 &-5712458260339406008
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/WheelsAsphalt/Speed
+  m_EditorClassIdentifier: 
+  Name: Speed
+  StudioPath: 
+  Min: 0
+  Max: 100
+  Default: 0
+  ID:
+    data1: 321794467
+    data2: 4114626915
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-5640739643689804423
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/CrashesSounds/CupCrush
+  m_EditorClassIdentifier: 
+  Path: event:/CrashesSounds/CupCrush
+  Guid:
+    Data1: -657724257
+    Data2: 1149515759
+    Data3: -1363322734
+    Data4: 1468110663
+  Banks:
+  - {fileID: -6190092126856524381}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 433
 --- !u!114 &-5594794446732787375
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2655,6 +3124,33 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 0
+--- !u!114 &-5511635157240165506
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/CrashesSounds/PlantsCrush
+  m_EditorClassIdentifier: 
+  Path: event:/CrashesSounds/PlantsCrush
+  Guid:
+    Data1: 677164479
+    Data2: 1206531219
+    Data3: -802005070
+    Data4: 827080778
+  Banks:
+  - {fileID: -6190092126856524381}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 610
 --- !u!114 &-5476124480867961706
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3079,6 +3575,26 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 0
+--- !u!114 &-5155678305394793264
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/UniversalVehicleController/Fmod/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 638137217838726702
+  FileSizes:
+  - Name: 
+    Value: 3032
+  Exists: 1
 --- !u!114 &-5146861246614107048
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3378,6 +3894,30 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
+--- !u!114 &-4834039877081266338
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/DieselTruckEngine_3000rpm_01/Load
+  m_EditorClassIdentifier: 
+  Name: Load
+  StudioPath: 
+  Min: -1
+  Max: 1
+  Default: 0
+  ID:
+    data1: 2696509246
+    data2: 4246335921
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
 --- !u!114 &-4819828301513189385
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3554,6 +4094,33 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
+--- !u!114 &-4514317547127857094
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Crashes/StoneCollision_Strong
+  m_EditorClassIdentifier: 
+  Path: event:/Crashes/StoneCollision_Strong
+  Guid:
+    Data1: -1804951031
+    Data2: 1281371316
+    Data3: -1092115287
+    Data4: 365908558
+  Banks:
+  - {fileID: 5358900017183286825}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1003
 --- !u!114 &-4482054360391976875
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3632,6 +4199,33 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
+--- !u!114 &-4424993575214122806
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/CrashesSounds/WoodenBox
+  m_EditorClassIdentifier: 
+  Path: event:/CrashesSounds/WoodenBox
+  Guid:
+    Data1: 607672784
+    Data2: 1165349571
+    Data3: -546265170
+    Data4: -1698523793
+  Banks:
+  - {fileID: -6190092126856524381}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1601
 --- !u!114 &-4399903370802559687
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4420,6 +5014,30 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 0
+--- !u!114 &-3393643868039941858
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Motorbike_Engine_01/RPM
+  m_EditorClassIdentifier: 
+  Name: RPM
+  StudioPath: 
+  Min: 0
+  Max: 10000
+  Default: 0
+  ID:
+    data1: 3627960765
+    data2: 2180924683
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
 --- !u!114 &-3393412019234163567
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4807,6 +5425,33 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
+--- !u!114 &-2725461408905943971
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Crashes/StoneCollision_Easy
+  m_EditorClassIdentifier: 
+  Path: event:/Crashes/StoneCollision_Easy
+  Guid:
+    Data1: 971433557
+    Data2: 1228584680
+    Data3: 74512561
+    Data4: -1348898161
+  Banks:
+  - {fileID: 5358900017183286825}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1351
 --- !u!114 &-2711494484228036757
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5064,6 +5709,33 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
+--- !u!114 &-2395934917453926412
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/CrashesSounds/WatermelonCrush
+  m_EditorClassIdentifier: 
+  Path: event:/CrashesSounds/WatermelonCrush
+  Guid:
+    Data1: -523364300
+    Data2: 1166036921
+    Data3: -1451932273
+    Data4: -1497766143
+  Banks:
+  - {fileID: -6190092126856524381}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 800
 --- !u!114 &-2387812247079803084
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5090,6 +5762,34 @@ MonoBehaviour:
   Parameters:
   - {fileID: 2660325871286444857}
   - {fileID: 8608165891322437513}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-2351895230847251505
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Effects/Wind
+  m_EditorClassIdentifier: 
+  Path: event:/Effects/Wind
+  Guid:
+    Data1: -725737581
+    Data2: 1081882756
+    Data3: 751719322
+    Data4: -43735056
+  Banks:
+  - {fileID: 5358900017183286825}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: 6044586802186913002}
   MinDistance: 1
   MaxDistance: 20
   Length: 0
@@ -5538,6 +6238,57 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
+--- !u!114 &-1983911897802155154
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Engine_01/Load
+  m_EditorClassIdentifier: 
+  Name: Load
+  StudioPath: 
+  Min: -1
+  Max: 1
+  Default: 0
+  ID:
+    data1: 2696509246
+    data2: 4246335921
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-1961136245562450575
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/CrashesSounds/WoodenBox02
+  m_EditorClassIdentifier: 
+  Path: event:/CrashesSounds/WoodenBox02
+  Guid:
+    Data1: -255026019
+    Data2: 1312072738
+    Data3: 1856794792
+    Data4: 222150519
+  Banks:
+  - {fileID: -6190092126856524381}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1434
 --- !u!114 &-1945384965455287866
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5691,6 +6442,33 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 396
+--- !u!114 &-1830604214998354655
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Crashes/MetalCollision_Easy
+  m_EditorClassIdentifier: 
+  Path: event:/Crashes/MetalCollision_Easy
+  Guid:
+    Data1: 1518296630
+    Data2: 1271684405
+    Data3: 69313929
+    Data4: 2081743151
+  Banks:
+  - {fileID: 5358900017183286825}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 440
 --- !u!114 &-1816157797116751088
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5987,6 +6765,30 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
+--- !u!114 &-1462359839857682451
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/WheelsAsphalt/Slip
+  m_EditorClassIdentifier: 
+  Name: Slip
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 3366884520
+    data2: 2035949338
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
 --- !u!114 &-1381282115310400769
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6273,6 +7075,30 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
+--- !u!114 &-937667744106219957
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/DieselTruckEngine_3000rpm_01/RPM
+  m_EditorClassIdentifier: 
+  Name: RPM
+  StudioPath: 
+  Min: 0
+  Max: 10000
+  Default: 0
+  ID:
+    data1: 3627960765
+    data2: 2180924683
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
 --- !u!114 &-936350688140296317
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6293,6 +7119,30 @@ MonoBehaviour:
   ID:
     data1: 1635438702
     data2: 3972428802
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-898583342300950150
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/MetalFriction/Speed
+  m_EditorClassIdentifier: 
+  Name: Speed
+  StudioPath: 
+  Min: 0
+  Max: 100
+  Default: 0
+  ID:
+    data1: 321794467
+    data2: 4114626915
   Type: 0
   IsGlobal: 0
   Labels: []
@@ -6604,6 +7454,30 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
+--- !u!114 &-430975396545585443
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Motorbike_Engine_01/Load
+  m_EditorClassIdentifier: 
+  Name: Load
+  StudioPath: 
+  Min: -1
+  Max: 1
+  Default: 0
+  ID:
+    data1: 2696509246
+    data2: 4246335921
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
 --- !u!114 &-411463781778020007
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6658,6 +7532,30 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 1351
+--- !u!114 &-354991063111689052
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Engine_01/BackFire
+  m_EditorClassIdentifier: 
+  Name: BackFire
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 3530073052
+    data2: 2272884936
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
 --- !u!114 &-353518515076071590
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6808,6 +7706,35 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
+--- !u!114 &-195759452773556359
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/CarSounds/DieselTruckEngine_3000rpm_01
+  m_EditorClassIdentifier: 
+  Path: event:/CarSounds/DieselTruckEngine_3000rpm_01
+  Guid:
+    Data1: -214168245
+    Data2: 1269882330
+    Data3: 59493525
+    Data4: -491540475
+  Banks:
+  - {fileID: 5358900017183286825}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters:
+  - {fileID: -4834039877081266338}
+  - {fileID: -937667744106219957}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
 --- !u!114 &-186444025938117527
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6997,52 +7924,56 @@ MonoBehaviour:
   m_Name: FMODStudioCache
   m_EditorClassIdentifier: 
   EditorBanks:
-  - {fileID: 3666832417364780078}
-  - {fileID: 948218186448698695}
-  - {fileID: 6854214883806181848}
-  - {fileID: -2051025620737136115}
+  - {fileID: -5155678305394793264}
+  - {fileID: 5358900017183286825}
+  - {fileID: 7052557927455595849}
+  - {fileID: -6190092126856524381}
   EditorEvents:
-  - {fileID: 2203324709970458935}
-  - {fileID: 3210718134886609083}
-  - {fileID: -5402041342165463468}
-  - {fileID: -6104203123493640658}
-  - {fileID: 2913883530041891823}
-  - {fileID: 4247192178143987927}
-  - {fileID: -8151390142559930085}
-  - {fileID: 1816875237553709151}
-  - {fileID: 2351479614492585201}
-  - {fileID: 4577659556748642777}
-  - {fileID: -5418122539362109420}
-  - {fileID: 6389775650531012238}
-  - {fileID: -5165247616638295022}
-  - {fileID: 7006884372542694233}
-  - {fileID: 4690356167051083578}
-  - {fileID: 6257069098044133246}
-  - {fileID: 7225106412000602727}
-  - {fileID: 2482139526767444342}
-  - {fileID: 78846790491915031}
-  - {fileID: 7735101359929906465}
-  - {fileID: -6963874373694329134}
-  - {fileID: 7006190720016538614}
-  - {fileID: -4139515572847637807}
-  - {fileID: 4717886418842400875}
-  - {fileID: 5290620789544739020}
-  - {fileID: 537269817503168789}
-  - {fileID: -2810871019399614720}
-  - {fileID: -4711093774178526605}
-  - {fileID: 904988746501582714}
-  - {fileID: 2605242680082746323}
-  - {fileID: -5146861246614107048}
-  - {fileID: 8852977950608822410}
-  - {fileID: -9112599497248573097}
-  - {fileID: -6220817285988701684}
-  - {fileID: 3836612812389862512}
-  - {fileID: 5944055523537489754}
+  - {fileID: -4514317547127857094}
+  - {fileID: -6243044935803771223}
+  - {fileID: -7075516451745681299}
+  - {fileID: 3927883759958007648}
+  - {fileID: 2496564575563094768}
+  - {fileID: -1830604214998354655}
+  - {fileID: -195759452773556359}
+  - {fileID: -2725461408905943971}
+  - {fileID: -7123062543267857556}
+  - {fileID: 3861037306740515593}
+  - {fileID: 3130347713637605970}
+  - {fileID: -7987991408230885808}
+  - {fileID: -2351895230847251505}
+  - {fileID: 6557901567380653487}
+  - {fileID: 4047588112435229808}
+  - {fileID: 3817639432928817604}
+  - {fileID: 6832872513438147602}
+  - {fileID: 74951436703176492}
+  - {fileID: 4587578732795461110}
+  - {fileID: -6643604456129235196}
+  - {fileID: -8714596335126477196}
+  - {fileID: -7810877243008842499}
+  - {fileID: -2395934917453926412}
+  - {fileID: 7719211738777449367}
+  - {fileID: -6032316730668403702}
+  - {fileID: 448740029894613514}
+  - {fileID: -7108770688597139203}
+  - {fileID: 2076882840178610922}
+  - {fileID: -6241414474316310823}
+  - {fileID: -1961136245562450575}
+  - {fileID: -5640739643689804423}
+  - {fileID: -8321493801044479432}
+  - {fileID: 9137990660089986667}
+  - {fileID: -5511635157240165506}
+  - {fileID: -4424993575214122806}
+  - {fileID: -5747637526301669103}
   EditorParameters: []
   MasterBanks:
-  - {fileID: 948218186448698695}
+  - {fileID: 5358900017183286825}
   StringsBanks:
+<<<<<<< Updated upstream
   - {fileID: 3666832417364780078}
+=======
+  - {fileID: -5155678305394793264}
+>>>>>>> Stashed changes
   cacheTime: 638137217839198855
   cacheVersion: 131601
 --- !u!114 &8301707369920399
@@ -7096,6 +8027,33 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
+--- !u!114 &74951436703176492
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Crashes/Glass_Shards_Easy
+  m_EditorClassIdentifier: 
+  Path: event:/Crashes/Glass_Shards_Easy
+  Guid:
+    Data1: -1855715122
+    Data2: 1147166295
+    Data3: 2083609245
+    Data4: 381501333
+  Banks:
+  - {fileID: 5358900017183286825}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 260
 --- !u!114 &78846790491915031
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7278,6 +8236,30 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
+--- !u!114 &409463596106834927
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/WheelsGround/Speed
+  m_EditorClassIdentifier: 
+  Name: Speed
+  StudioPath: 
+  Min: 0
+  Max: 100
+  Default: 0
+  ID:
+    data1: 321794467
+    data2: 4114626915
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
 --- !u!114 &435047955020998441
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7326,6 +8308,33 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
+--- !u!114 &448740029894613514
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/CrashesSounds/LampCrush
+  m_EditorClassIdentifier: 
+  Path: event:/CrashesSounds/LampCrush
+  Guid:
+    Data1: -1102551983
+    Data2: 1324690402
+    Data3: -1354470497
+    Data4: -1692393658
+  Banks:
+  - {fileID: -6190092126856524381}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 734
 --- !u!114 &463656123892055292
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7516,6 +8525,30 @@ MonoBehaviour:
   ID:
     data1: 3627960765
     data2: 2180924683
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &692618865506299981
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Engine_01/Boost
+  m_EditorClassIdentifier: 
+  Name: Boost
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1966800828
+    data2: 2658639853
   Type: 0
   IsGlobal: 0
   Labels: []
@@ -7744,6 +8777,30 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 999
+--- !u!114 &1015354497477869759
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Motorbike_Engine_01/Turbo
+  m_EditorClassIdentifier: 
+  Name: Turbo
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 4096637506
+    data2: 1071543783
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
 --- !u!114 &1052226699977648780
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7900,6 +8957,30 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 0
+--- !u!114 &1330043073882980791
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Motorbike_Engine_01/BackFire
+  m_EditorClassIdentifier: 
+  Name: BackFire
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 3530073052
+    data2: 2272884936
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
 --- !u!114 &1395755319412481201
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8167,6 +9248,30 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 0
+--- !u!114 &1685534354857092954
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Motorbike_Engine_01/TurboBlowOff
+  m_EditorClassIdentifier: 
+  Name: TurboBlowOff
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 4255240835
+    data2: 1519752798
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
 --- !u!114 &1718080619879207746
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8620,6 +9725,33 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
+--- !u!114 &2076882840178610922
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/CrashesSounds/PlateCrush
+  m_EditorClassIdentifier: 
+  Path: event:/CrashesSounds/PlateCrush
+  Guid:
+    Data1: -2040626311
+    Data2: 1331722655
+    Data3: -571341140
+    Data4: -400926073
+  Banks:
+  - {fileID: -6190092126856524381}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 400
 --- !u!114 &2093643944643164012
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8722,6 +9854,30 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 455
+--- !u!114 &2269603116491526897
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/WheelsGround/Slip
+  m_EditorClassIdentifier: 
+  Name: Slip
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 3366884520
+    data2: 2035949338
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
 --- !u!114 &2281749411799418651
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8793,6 +9949,30 @@ MonoBehaviour:
   ID:
     data1: 3366884520
     data2: 2035949338
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &2338381446660529868
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/GroundFriction/Speed
+  m_EditorClassIdentifier: 
+  Name: Speed
+  StudioPath: 
+  Min: 0
+  Max: 100
+  Default: 0
+  ID:
+    data1: 321794467
+    data2: 4114626915
   Type: 0
   IsGlobal: 0
   Labels: []
@@ -8961,6 +10141,39 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 260
+--- !u!114 &2496564575563094768
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/CarSounds/Engine_01
+  m_EditorClassIdentifier: 
+  Path: event:/CarSounds/Engine_01
+  Guid:
+    Data1: -247337677
+    Data2: 1137872337
+    Data3: 1382780571
+    Data4: 1817521979
+  Banks:
+  - {fileID: 5358900017183286825}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters:
+  - {fileID: -354991063111689052}
+  - {fileID: 6166392491777092475}
+  - {fileID: 3744461129495163840}
+  - {fileID: 692618865506299981}
+  - {fileID: -1983911897802155154}
+  - {fileID: 4717432596973932872}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
 --- !u!114 &2528012394691893294
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9581,6 +10794,33 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
+--- !u!114 &3130347713637605970
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Crashes/MetalCollision_Strong
+  m_EditorClassIdentifier: 
+  Path: event:/Crashes/MetalCollision_Strong
+  Guid:
+    Data1: 1975033971
+    Data2: 1191208295
+    Data3: -1692801131
+    Data4: 1731824289
+  Banks:
+  - {fileID: 5358900017183286825}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 999
 --- !u!114 &3192902969989447109
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10039,6 +11279,30 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 999
+--- !u!114 &3744461129495163840
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Engine_01/RPM
+  m_EditorClassIdentifier: 
+  Name: RPM
+  StudioPath: 
+  Min: 0
+  Max: 10000
+  Default: 0
+  ID:
+    data1: 3627960765
+    data2: 2180924683
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
 --- !u!114 &3815918213001360370
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10066,6 +11330,33 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 1028
+--- !u!114 &3817639432928817604
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/CarSounds/y
+  m_EditorClassIdentifier: 
+  Path: event:/CarSounds/y
+  Guid:
+    Data1: 1622840232
+    Data2: 1077291971
+    Data3: -1467207790
+    Data4: 1312845277
+  Banks:
+  - {fileID: 5358900017183286825}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
 --- !u!114 &3833399054563418103
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10120,6 +11411,35 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 1601
+--- !u!114 &3861037306740515593
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Crashes/GroundFriction
+  m_EditorClassIdentifier: 
+  Path: event:/Crashes/GroundFriction
+  Guid:
+    Data1: -1752347281
+    Data2: 1221639892
+    Data3: -1237399903
+    Data4: -2112245869
+  Banks:
+  - {fileID: 5358900017183286825}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters:
+  - {fileID: 2338381446660529868}
+  - {fileID: -8305732182116683878}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
 --- !u!114 &3891000855303654768
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10191,6 +11511,33 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
+--- !u!114 &3927883759958007648
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Crashes/Glass_Shards_Strong
+  m_EditorClassIdentifier: 
+  Path: event:/Crashes/Glass_Shards_Strong
+  Guid:
+    Data1: -1428100828
+    Data2: 1281314381
+    Data3: 1272283822
+    Data4: -1759338174
+  Banks:
+  - {fileID: 5358900017183286825}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1514
 --- !u!114 &3960244626251080071
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10215,6 +11562,33 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
+--- !u!114 &4047588112435229808
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Crashes/PlasticCollision_Easy
+  m_EditorClassIdentifier: 
+  Path: event:/Crashes/PlasticCollision_Easy
+  Guid:
+    Data1: 337202075
+    Data2: 1078588531
+    Data3: -394792827
+    Data4: 1608541917
+  Banks:
+  - {fileID: 5358900017183286825}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 440
 --- !u!114 &4052217744110923047
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10669,6 +12043,39 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 0
+--- !u!114 &4587578732795461110
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/CarSounds/Motorbike_Engine_01
+  m_EditorClassIdentifier: 
+  Path: event:/CarSounds/Motorbike_Engine_01
+  Guid:
+    Data1: -526567727
+    Data2: 1261732902
+    Data3: 1799635075
+    Data4: 135471682
+  Banks:
+  - {fileID: 5358900017183286825}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters:
+  - {fileID: 1015354497477869759}
+  - {fileID: -430975396545585443}
+  - {fileID: 1685534354857092954}
+  - {fileID: -3393643868039941858}
+  - {fileID: -5887729718023587638}
+  - {fileID: 1330043073882980791}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
 --- !u!114 &4588053055287822544
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10792,6 +12199,30 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 1003
+--- !u!114 &4717432596973932872
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Engine_01/Turbo
+  m_EditorClassIdentifier: 
+  Name: Turbo
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 4096637506
+    data2: 1071543783
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
 --- !u!114 &4717886418842400875
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11344,6 +12775,24 @@ MonoBehaviour:
   Type: 0
   IsGlobal: 0
   Labels: []
+  Exists: 1
+--- !u!114 &5358900017183286825
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/UniversalVehicleController/Fmod/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 638137217838718527
+  FileSizes: []
   Exists: 1
 --- !u!114 &5378878553430941667
 MonoBehaviour:
@@ -11953,6 +13402,30 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
+--- !u!114 &6044586802186913002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Wind/Speed
+  m_EditorClassIdentifier: 
+  Name: Speed
+  StudioPath: 
+  Min: 0
+  Max: 100
+  Default: 0
+  ID:
+    data1: 321794467
+    data2: 4114626915
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
 --- !u!114 &6145563644610280825
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11982,6 +13455,30 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 0
+--- !u!114 &6166392491777092475
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Engine_01/TurboBlowOff
+  m_EditorClassIdentifier: 
+  Name: TurboBlowOff
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 4255240835
+    data2: 1519752798
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
 --- !u!114 &6257069098044133246
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12234,6 +13731,33 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 0
+--- !u!114 &6557901567380653487
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Crashes/MetalCollision_Medium
+  m_EditorClassIdentifier: 
+  Path: event:/Crashes/MetalCollision_Medium
+  Guid:
+    Data1: 1766344859
+    Data2: 1217433269
+    Data3: 323210923
+    Data4: 1695574687
+  Banks:
+  - {fileID: 5358900017183286825}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 396
 --- !u!114 &6587800715264850344
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12330,6 +13854,35 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
+--- !u!114 &6832872513438147602
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Wheels/WheelsGround
+  m_EditorClassIdentifier: 
+  Path: event:/Wheels/WheelsGround
+  Guid:
+    Data1: 445491909
+    Data2: 1265340600
+    Data3: -177681520
+    Data4: 1682067430
+  Banks:
+  - {fileID: 5358900017183286825}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters:
+  - {fileID: 2269603116491526897}
+  - {fileID: 409463596106834927}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
 --- !u!114 &6843445729651792827
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12530,6 +14083,24 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 396
+--- !u!114 &7052557927455595849
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/sdsd.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/UniversalVehicleController/Fmod/Desktop/sdsd.bank
+  Name: sdsd
+  StudioPath: bank:/sdsd
+  lastModified: 638137217839051311
+  FileSizes: []
+  Exists: 1
 --- !u!114 &7054208966817431922
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13103,6 +14674,33 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
+--- !u!114 &7719211738777449367
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/CrashesSounds/BarrelBoom
+  m_EditorClassIdentifier: 
+  Path: event:/CrashesSounds/BarrelBoom
+  Guid:
+    Data1: 52048437
+    Data2: 1216922851
+    Data3: 37473970
+    Data4: -2111383920
+  Banks:
+  - {fileID: -6190092126856524381}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 4725
 --- !u!114 &7732247826931950742
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14374,6 +15972,33 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 260
+--- !u!114 &9137990660089986667
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/CrashesSounds/TV01_Crush
+  m_EditorClassIdentifier: 
+  Path: event:/CrashesSounds/TV01_Crush
+  Guid:
+    Data1: -33208388
+    Data2: 1297780542
+    Data3: -1462151507
+    Data4: -1176951800
+  Banks:
+  - {fileID: -6190092126856524381}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 867
 --- !u!114 &9173977581852165396
 MonoBehaviour:
   m_ObjectHideFlags: 0
