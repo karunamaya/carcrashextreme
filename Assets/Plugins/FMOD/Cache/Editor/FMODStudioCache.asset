@@ -198,7 +198,7 @@ MonoBehaviour:
   Path: Assets/UniversalVehicleController/Fmod/Desktop/sdsd.bank
   Name: sdsd
   StudioPath: bank:/sdsd
-  lastModified: 638139877356245192
+  lastModified: 638137217839051311
   FileSizes: []
   Exists: 1
 --- !u!114 &-6667899280856993961
@@ -701,7 +701,7 @@ MonoBehaviour:
   - {fileID: 8004400578937766072}
   StringsBanks:
   - {fileID: 2506500146996308128}
-  cacheTime: 638139877356245192
+  cacheTime: 638137217839198855
   cacheVersion: 131601
 --- !u!114 &12263943743481548
 MonoBehaviour:
@@ -937,7 +937,7 @@ MonoBehaviour:
   Path: Assets/UniversalVehicleController/Fmod/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 638139877354841190
+  lastModified: 638137217838726702
   FileSizes:
   - Name: 
     Value: 3032
@@ -1090,7 +1090,7 @@ MonoBehaviour:
   Path: Assets/UniversalVehicleController/Fmod/Desktop/sound.bank
   Name: sound
   StudioPath: bank:/sound
-  lastModified: 638139877356245192
+  lastModified: 638137217839198855
   FileSizes: []
   Exists: 1
 --- !u!114 &3628968673182847684
@@ -1571,7 +1571,7 @@ MonoBehaviour:
   Path: Assets/UniversalVehicleController/Fmod/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 638139877354841190
+  lastModified: 638137217838718527
   FileSizes: []
   Exists: 1
 --- !u!114 &8208309763536860425
